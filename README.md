@@ -1,4 +1,4 @@
-<img width=100% src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif"/>
+<img width=100% src="https://i.imgur.com/J7Rx5Q5.png"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0BFE0&size=35&center=true&vCenter=true&width=1000&lines=Great+to+see+you+here!;+I%27m+Wallison+Costa,+Full-Stack+Developer;Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -130,4 +130,4 @@ Feel free to reach out for collaborations, freelance opportunities, or just to h
 
 ---
 
-<img width=100% src="https://media.giphy.com/media/xT9DPCf8sgs76fs7mU/giphy.gif"/>
+<img width=100% src="https://i.imgur.com/DmjVtHQ.png"/>
