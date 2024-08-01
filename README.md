@@ -15,10 +15,9 @@ Bem-vindo(a) à minha página no GitHub.
 
 🔗 &nbsp;**Conecte-se comigo!**
 
-<a href="https://www.linkedin.com/in/wallison-python-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wallison Costa" height="30" width="30" /></a>
-<a href="mailto:wallisonzwka@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="wallisonzwka@gmail.com" height="30" width="30" /></a>
-<a href="https://github.com/Wallison-DEV" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Wallison Costa GitHub" height="30" width="30" /></a>
-<a href="https://www.wallison-portfolio.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Wallison Costa Portfolio" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/wallison-python-dev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wallison Costa LinkedIn" height="30" width="80" /></a>
+<a href="mailto:wallisonzwka@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="wallisonzwka@gmail.com" height="30" width="80" /></a>
+<a href="https://github.com/Wallison-DEV" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Wallison Costa GitHub" height="30" width="80" /></a>
 
 ---
 
