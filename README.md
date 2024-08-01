@@ -1,19 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A55A2&height=120&section=header"/>
+<img width=100% src="https://www.transparenttextures.com/patterns/white-wall.png"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0BFE0&size=35&center=true&vCenter=true&width=1000&lines=Que+bom+te+ver+por+aqui!;+Sou+Wallison+Costa,Full-Stack+Developer;Boas+Vindas!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0BFE0&size=35&center=true&vCenter=true&width=1000&lines=Great+to+see+you+here!;+I%27m+Wallison+Costa,+Full-Stack+Developer;Welcome!+:%29)](https://git.io/typing-svg)
 
-### Olá! <a href="https://www.wallison-portfolio.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-Bem-vindo(a) à minha página no GitHub.
+### Hello! <a href="https://www.wallison-portfolio.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+Welcome to my GitHub page.
 
-🖖 Eu sou Wallison, um desenvolvedor Full-Stack apaixonado por tecnologia e programação. Aqui, compartilho projetos e contribuições da minha jornada como desenvolvedor.
+🖖 I’m Wallison, a Full-Stack Developer passionate about technology and programming. Here, I share projects and contributions from my development journey.
 
-🤝 Fique à vontade para explorar meus repositórios e utilizar o que encontrar. Apenas lembre-se dos créditos, combinado?
+🤝 Feel free to explore my repositories and use what you find. Just remember to give credits, okay?
 
-💬 Estou à disposição para responder qualquer pergunta relacionada a Python, React, Django, TypeScript, Node.js, entre outros.
+💬 I'm here to answer any questions related to Python, React, Django, TypeScript, Node.js, and more.
 
-⚡ Valorizo muito seu feedback e sugestões. Se tiver algum, vamos construir juntos!
+⚡ I highly value your feedback and suggestions. If you have any, let’s build together!
 
-🔗 &nbsp;**Conecte-se comigo!**
+🔗 &nbsp;**Connect with me!**
 
 <a href="https://www.linkedin.com/in/wallison-python-dev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wallison Costa LinkedIn" height="30" width="100" /></a>
 <a href="mailto:wallisonzwka@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="wallisonzwka@gmail.com" height="30" width="80" /></a>
@@ -81,7 +81,7 @@ Bem-vindo(a) à minha página no GitHub.
 
 ---
 
-## 📂 Projetos
+## 📂 Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wallison-DEV&repo=xClone&theme=dark)](https://github.com/Wallison-DEV/xClone)
 
@@ -96,16 +96,16 @@ Bem-vindo(a) à minha página no GitHub.
 ### Freelance Full-Stack Developer
 **February 2023 - Present**
 
-- Desenvolvi e mantive diversas páginas web, garantindo alta eficiência e qualidade usando stacks tecnológicos avançados.
-- Criei páginas web responsivas e modernas usando Node.js, Bootstrap, Less, Sass e Gulp.
-- Implementei Git para controle de versão, garantindo um desenvolvimento eficiente e organizado.
-- Utilize Django e Node.js para desenvolvimento de back-end e React para front-end, aproveitando o TypeScript para segurança de tipos.
-- Integrei bancos de dados MySQL e usei Ajax e jQuery para manipulação do DOM.
+- Developed and maintained various web pages, ensuring high efficiency and quality using advanced tech stacks.
+- Created responsive and modern web pages using Node.js, Bootstrap, Less, Sass, and Gulp.
+- Implemented Git for version control, ensuring efficient and organized development.
+- Utilized Django and Node.js for back-end development and React for front-end, leveraging TypeScript for type safety.
+- Integrated MySQL databases and used Ajax and jQuery for DOM manipulation.
 
 ## 📚 Education
 
 - **Full Stack Python Developer** - EBAC, 2022 - 2024
-- **Analysis and Systems Development** - Estácio, 2023 (Interrompido)
+- **Analysis and Systems Development** - Estácio, 2023 (Incomplete)
 
 ---
 
@@ -126,10 +126,8 @@ Bem-vindo(a) à minha página no GitHub.
 
 ## 📫 Contact Me
 
-Sinta-se à vontade para entrar em contato para colaborações, oportunidades de freelance, ou apenas para bater um papo amigável sobre tecnologia.
+Feel free to reach out for collaborations, freelance opportunities, or just to have a friendly chat about technology.
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A55A2&height=120&section=footer"/>
-
-*This README was generated with ❤️ by Wallison Costa.*
+<img width=100% src="https://www.transparenttextures.com/patterns/white-wall.png"/>
