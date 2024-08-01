@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=4A55A2&height=120&section=header&animation=fadeIn&text=Superior&fontSize=30"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rounded&color=4A55A2&height=120&section=header&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0BFE0&size=35&center=true&vCenter=true&width=1000&lines=Great+to+see+you+here!;+I%27m+Wallison+Costa,+Full-Stack+Developer;Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -130,4 +130,4 @@ Feel free to reach out for collaborations, freelance opportunities, or just to h
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A55A2&height=120&section=footer&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rounded&color=4A55A2&height=120&section=footer&animation=fadeIn"/>
