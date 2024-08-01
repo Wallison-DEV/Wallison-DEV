@@ -18,6 +18,13 @@ I'm a passionate Full-Stack Developer with a strong foundation in Python and exp
 
 ---
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wallison-DEV&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallison-DEV&layout=compact&theme=radical)
+
+---
+
 ## 🚀 Skills and Technologies
 
 - **Front-End**: React, TypeScript, HTML, CSS, JavaScript, Bootstrap, JQuery, Sass, Less, Gulp, Grunt, Vue.js, Next.js
@@ -67,13 +74,6 @@ I'm a passionate Full-Stack Developer with a strong foundation in Python and exp
 - **TI do Zero ao Pro** - EBAC, 2023 - 2024
 - **Introduction to Programming** - EBAC, 2023
 - **Artificial Intelligence** - EBAC, 2024
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wallison-DEV&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallison-DEV&layout=compact&theme=radical)
 
 ---
 
