@@ -92,11 +92,19 @@ Bem-vindo(a) à minha página no GitHub.
 - Utilize Django e Node.js para desenvolvimento de back-end e React para front-end, aproveitando o TypeScript para segurança de tipos.
 - Integrei bancos de dados MySQL e usei Ajax e jQuery para manipulação do DOM.
 
-### Key Projects
+# 📂 Projetos
 
-- **[Aplicação Web de Rede Social (Twitter Clone)](https://github.com/Wallison-DEV/twitter-clone)**: Desenvolvi uma aplicação de rede social dinâmica usando React.js e Django, incluindo funcionalidades como autenticação de usuários, atualizações em tempo real e gerenciamento de estado com Redux Toolkit.
-- **[EPLAY](https://github.com/Wallison-DEV/eplay)**: Desenvolvi uma loja digital de jogos com React, TypeScript e Redux, apresentando integração com API, navegação com React Router e validação de formulários com Yup e Formik.
-- **[ChatApp](https://github.com/Wallison-DEV/chatapp)**: Criei uma aplicação de chat em tempo real usando Django, Channels e Bootstrap, implementando funcionalidades como autenticação de usuários, comunicação via WebSocket e uma interface responsiva.
+### **[Projeto 1](https://github.com/Wallison-DEV/projeto-1)**
+![Status Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge&logo=github&logoColor=white)
+Breve descrição do projeto 1.
+
+### **[Projeto 2](https://github.com/Wallison-DEV/projeto-2)**
+![Status Badge](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+Breve descrição do projeto 2.
+
+### **[Projeto 3](https://github.com/Wallison-DEV/projeto-3)**
+![Status Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge&logo=github&logoColor=white)
+Breve descrição do projeto 3.
 
 ---
 
