@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFAE&height=120&section=header&animation=fadeIn"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0BFE0&size=35&center=true&vCenter=true&width=1000&lines=Great+to+see+you+here!;+I%27m+Wallison+Costa,+Full-Stack+Developer;Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Hello! <a href="https://www.wallison-portfolio.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
