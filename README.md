@@ -92,21 +92,34 @@ Bem-vindo(a) à minha página no GitHub.
 - Utilize Django e Node.js para desenvolvimento de back-end e React para front-end, aproveitando o TypeScript para segurança de tipos.
 - Integrei bancos de dados MySQL e usei Ajax e jQuery para manipulação do DOM.
 
-# 📂 Projetos
+## 📂 Projetos
 
-### **[Projeto 1](https://github.com/Wallison-DEV/projeto-1)**
-![Status Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge&logo=github&logoColor=white)
-Breve descrição do projeto 1.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wallison-DEV&repo=xClone&theme=dark)](https://github.com/Wallison-DEV/xClone)
 
-### **[Projeto 2](https://github.com/Wallison-DEV/projeto-2)**
-![Status Badge](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge&logo=github&logoColor=white)
-Breve descrição do projeto 2.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wallison-DEV&repo=EPLAY&theme=dark)](https://github.com/Wallison-DEV/EPLAY)
 
-### **[Projeto 3](https://github.com/Wallison-DEV/projeto-3)**
-![Status Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge&logo=github&logoColor=white)
-Breve descrição do projeto 3.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wallison-DEV&repo=django_chat&theme=dark)](https://github.com/Wallison-DEV/django_chat)
 
 ---
+
+## 📝 Descrição dos Projetos
+
+### xClone
+- **Data**: May 2024
+- **Descrição**: O Clone do Twitter é uma aplicação web desenvolvida com React.js e Django, proporcionando uma experiência semelhante à popular rede social. Inspirada no Twitter original, esta aplicação permite aos usuários criar, editar, visualizar e interagir com postagens, comentários e retweets. Utilizando tecnologias modernas como Redux Toolkit para gerenciamento de estado e integração com uma API RESTful, o projeto oferece uma plataforma para compartilhar pensamentos, ideias e momentos com uma comunidade virtual.
+- **Repositório**: [xClone](https://github.com/Wallison-DEV/xClone)
+- **Demo**: [xClone Demo](https://x-clone-frontend-neon.vercel.app/)
+
+### EPLAY
+- **Data**: Mar 2024
+- **Descrição**: Este é um projeto de loja de jogos digitais desenvolvido com React, TypeScript e outras tecnologias relacionadas como: integração com API externa para obter dados dos jogos usando createApi do Redux Toolkit, navegação entre seções utilizando React Router, gerenciamento de estado centralizado com Redux, validação de formulários utilizando Yup e Formik. A aplicação consiste em várias páginas, incluindo: Página Inicial, Categorias, Produto, Checkout.
+- **Repositório**: [EPLAY](https://github.com/Wallison-DEV/EPLAY)
+- **Demo**: [EPLAY Demo](https://eplay-beta.vercel.app/)
+
+### ChatApp
+- **Data**: Abr 2024
+- **Descrição**: Este projeto é uma aplicação de chat desenvolvida com Django, REST Framework, Channels e Bootstrap. Permite que os usuários se cadastrem, façam login e conversem em tempo real. Oferece uma interface intuitiva e funcionalidades como lista de contatos, envio de mensagens e visualização de conversas.
+- **Repositório**: [ChatApp](https://github.com/Wallison-DEV/django_chat.git)
 
 ## 📚 Education
 
