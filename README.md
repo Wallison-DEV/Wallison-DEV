@@ -1,23 +1,24 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFAE&height=120&section=header&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFAE&height=120&section=header&animation=fadeIn" alt="Header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0BFE0&size=35&center=true&vCenter=true&width=1000&lines=Great+to+see+you+here!;+I%27m+Wallison+Costa,+Full-Stack+Developer;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=A0BFE0&size=35&center=true&vCenter=true&width=1000&lines=Great+to+see+you+here!;I%27m+Wallison+Costa,+Full-Stack+Developer;Welcome!+:%29)](https://github.com/DenverCoder1/readme-typing-svg)
 
-### Hello! <a href="https://www.wallison-portfolio.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hello! <a href="https://www.wallison-portfolio.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" alt="Portfolio"></a>
+
 Welcome to my GitHub page.
 
 🖖 I’m Wallison, a Full-Stack Developer passionate about technology and programming. Here, I share projects and contributions from my development journey.
 
 🤝 Feel free to explore my repositories and use what you find. Just remember to give credits, okay?
 
-💬 I'm here to answer any questions related to Python, React, Django, TypeScript, Node.js, and more.
+💬 I'm here to answer any questions related to Python, React, Django, TypeScript, Node.js, Supabase, and more.
 
 ⚡ I highly value your feedback and suggestions. If you have any, let’s build together!
 
 🔗 &nbsp;**Connect with me!**
 
-<a href="https://www.linkedin.com/in/wallison-python-dev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wallison Costa LinkedIn" height="30" width="100" /></a>
-<a href="mailto:wallisonzwka@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="wallisonzwka@gmail.com" height="30" width="80" /></a>
-<a href="https://github.com/Wallison-DEV" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Wallison Costa GitHub" height="30" width="80" /></a>
+<a href="https://www.linkedin.com/in/wallison-python-dev" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wallison Costa LinkedIn" height="30" /></a>
+<a href="mailto:wallisonzwka@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="wallisonzwka@gmail.com" height="30" /></a>
+<a href="https://github.com/Wallison-DEV" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Wallison Costa GitHub" height="30" /></a>
 
 ---
 
@@ -31,69 +32,77 @@ Welcome to my GitHub page.
 ## 🚀 Skills and Technologies
 
 ### **Front-End**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
-![Grunt](https://img.shields.io/badge/Grunt-F5F5F5?style=for-the-badge&logo=grunt&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Grunt](https://img.shields.io/badge/Grunt-FAA918?style=for-the-badge&logo=grunt&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### **Back-End**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-00A8E1?style=for-the-badge&logo=swagger&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-0077C4?style=for-the-badge&logo=django&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-4A4A4A?style=for-the-badge&logo=websockets&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-00A8E1?style=for-the-badge&logo=swagger&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-4A4A4A?style=for-the-badge)
 
 ### **Database**
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Tools & Platforms**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9B8E?style=for-the-badge&logo=pytest&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### **Programming Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### **Others**
-![WebSocket](https://img.shields.io/badge/WebSocket-4A4A4A?style=for-the-badge&logo=websockets&logoColor=white)
-![Ajax](https://img.shields.io/badge/Ajax-003E54?style=for-the-badge&logo=ajax&logoColor=white)
+
+![AJAX](https://img.shields.io/badge/AJAX-003E54?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-00A8E1?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
 ## 📂 Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wallison-DEV&repo=xClone&theme=dark)](https://github.com/Wallison-DEV/xClone)
+[![xClone](https://github-readme-stats.vercel.app/api/pin/?username=Wallison-DEV&repo=xClone&theme=dark)](https://github.com/Wallison-DEV/xClone)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wallison-DEV&repo=EPLAY&theme=dark)](https://github.com/Wallison-DEV/EPLAY)
+[![EPLAY](https://github-readme-stats.vercel.app/api/pin/?username=Wallison-DEV&repo=EPLAY&theme=dark)](https://github.com/Wallison-DEV/EPLAY)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wallison-DEV&repo=django_chat&theme=dark)](https://github.com/Wallison-DEV/django_chat)
+[![django_chat](https://github-readme-stats.vercel.app/api/pin/?username=Wallison-DEV&repo=django_chat&theme=dark)](https://github.com/Wallison-DEV/django_chat)
 
 ---
 
 ## 📝 Professional Experience
 
 ### Freelance Full-Stack Developer
+
 **February 2023 - Present**
 
 - Developed and maintained various web pages, ensuring high efficiency and quality using advanced tech stacks.
@@ -101,6 +110,7 @@ Welcome to my GitHub page.
 - Implemented Git for version control, ensuring efficient and organized development.
 - Utilized Django and Node.js for back-end development and React for front-end, leveraging TypeScript for type safety.
 - Integrated MySQL databases and used Ajax and jQuery for DOM manipulation.
+- Built features for an education platform with React, TypeScript, Vite, TanStack Query, Supabase (Edge Functions, RPCs), and PostgreSQL, including a level-test system and a digital contract signing flow.
 
 ## 📚 Education
 
@@ -112,7 +122,8 @@ Welcome to my GitHub page.
 ## 🌐 Languages
 
 - **Portuguese**: Native
-- **English**: Intermediate
+- **English**: Advanced
+- **Spanish**: Intermediate
 
 ---
 
@@ -130,4 +141,4 @@ Feel free to reach out for collaborations, freelance opportunities, or just to h
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFAE&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFAE&height=120&section=footer&animation=fadeIn" alt="Footer"/>
